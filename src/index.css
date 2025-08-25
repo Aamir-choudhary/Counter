@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("Background.png"); /* image ka path */
+  background-repeat: no-repeat; /* repeat na ho */
+  background-size: cover; /* pura area cover kare */
+  background-position: center;
+}
